@@ -110,7 +110,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: >+
 
       Since "We Buy Houses As Is" is a franchise-based company, the quality of
