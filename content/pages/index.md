@@ -16,7 +16,7 @@ sections:
       is designed for convenience and speed, offering a quick closing process
       that can happen in as little as a week.
     actions:
-      - label: Get started
+      - label: Cash Offer
         altText: ''
         url: /
         showIcon: false
