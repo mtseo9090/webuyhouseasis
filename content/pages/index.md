@@ -705,11 +705,17 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Based on reviews and analysis of companies like "We Buy Houses As Is,"
+      it's clear they fill a specific niche in the real estate market. They are
+      generally considered legitimate businesses, but their model is distinct
+      from a traditional home sale. The primary value they offer is speed,
+      convenience, and a hassle-free process. This makes them particularly
+      appealing to sellers who need to close quickly, are facing challenging
+      situations like foreclosure or inherited properties, or have a home in
+      poor condition that would be difficult to sell on the open market.
+
     media:
       fields:
         - name: name
