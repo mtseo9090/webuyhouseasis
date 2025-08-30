@@ -239,11 +239,18 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      The general consensus from reviews is that this type of service is a
+      trade-off. While it offers a hassle-free and fast sale, the offers are
+      typically lower than what you might get by listing the property on the
+      open market with a real estate agent. The value proposition lies in
+      convenience, not in getting top dollar. Many positive reviews praise the
+      professionalism and honesty of individual franchise owners, as well as the
+      smooth and stress-free nature of the process. On the other hand, some
+      negative feedback relates to marketing practices and the fact that offers
+      are below market value.
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
