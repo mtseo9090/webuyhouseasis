@@ -7,7 +7,7 @@ sections:
       text: We Buy Houses As Is
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Get Cash offer
     text: >
       We Buy Houses As Is is part of a broader network of "we buy houses"
       companies that operate as cash home buyers. These companies specialize in
