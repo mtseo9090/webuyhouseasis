@@ -163,7 +163,7 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: 'When evaluating a company like "We Buy Houses As Is,'
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >+
 
