@@ -361,7 +361,7 @@ sections:
       text: We Buy Houses As Is
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Contact Us
     text: >+
 
       Based on reviews and analysis of companies like "We Buy Houses As Is,"
