@@ -373,7 +373,7 @@ sections:
       properties, or have a home in poor condition that would be difficult to
       sell on the open market.
     badge:
-      label: Contact Us
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
