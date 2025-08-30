@@ -295,11 +295,17 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Since "We Buy Houses As Is" is a franchise-based company, the quality of
+      service can vary depending on the specific location and the individual
+      franchise owner. It's recommended that sellers considering this option get
+      multiple offers from different cash buyers to ensure they are getting a
+      fair deal. The company's website itself offers guidance on how to identify
+      legitimate cash buyers, which can be a useful resource for sellers looking
+      to avoid scams. The company also emphasizes that it does not charge
+      upfront fees. The founder of the company is Gagan Bilga.
+
     actions: []
     media:
       title: Title of the video
