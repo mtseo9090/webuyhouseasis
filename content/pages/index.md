@@ -362,17 +362,16 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Contact Us
-    text: >+
-
-      Based on reviews and analysis of companies like "We Buy Houses As Is,"
-      it's clear they fill a specific niche in the real estate market. They are
-      generally considered legitimate businesses, but their model is distinct
-      from a traditional home sale. The primary value they offer is speed,
-      convenience, and a hassle-free process. This makes them particularly
-      appealing to sellers who need to close quickly, are facing challenging
-      situations like foreclosure or inherited properties, or have a home in
-      poor condition that would be difficult to sell on the open market.
-
+    text: >
+      Based on reviews and analysis of companies like "[We Buy Houses As
+      Is](https://www.webuyhouseasis.com/)," it's clear they fill a specific
+      niche in the real estate market. They are generally considered legitimate
+      businesses, but their model is distinct from a traditional home sale. The
+      primary value they offer is speed, convenience, and a hassle-free process.
+      This makes them particularly appealing to sellers who need to close
+      quickly, are facing challenging situations like foreclosure or inherited
+      properties, or have a home in poor condition that would be difficult to
+      sell on the open market.
     badge:
       label: Contact Us
       color: text-primary
