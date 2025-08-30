@@ -18,7 +18,7 @@ sections:
     actions:
       - label: Cash Offer
         altText: ''
-        url: /
+        url: 'https://www.webuyhouseasis.com/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
