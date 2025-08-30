@@ -27,7 +27,7 @@ sections:
         type: Button
       - label: Get Offer
         altText: ''
-        url: /
+        url: 'https://www.webuyhouseasis.com/get-a-cash-offer-today/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
