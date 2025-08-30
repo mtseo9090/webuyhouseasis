@@ -164,7 +164,7 @@ sections:
     items:
       - title: 'When evaluating a company like "We Buy Houses As Is,'
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: >+
 
           A key point that repeatedly comes up in reviews is the trade-off for
