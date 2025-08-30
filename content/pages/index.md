@@ -101,7 +101,10 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: >-
+        Many reviews praise the professionalism and honesty of specific
+        franchisees, while others point to issues like aggressive marketing
+        tactics or lowball offers.
       color: text-dark
       styles:
         self:
