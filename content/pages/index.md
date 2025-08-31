@@ -161,56 +161,6 @@ sections:
       *   [We buy House As Is Get
       Cash](https://www.webuyhouseasis.com/get-a-cash-offer-today/)
 
-
-      *   [we buy house as is | about.me](https://about.me/webuyhouseasis.com)
-
-
-      *   [we buy house as is | heycard.link](https://heycard.link/gagan)
-
-
-      *   [we buy house as is |
-      heylink.me](https://heylink.me/webuyhouseasis.com/)
-
-
-      *   [we buy house as is | 8b.io](https://webuyhouseasis.8b.io/)
-
-
-      *   [we buy house as is | solo.to](https://solo.to/webuyhouseasis)
-
-
-      *   [we buy house as is | igli.me](https://igli.me/webuyhouseasis)
-
-
-      *   [we buy house as is | c8ke.me](https://c8ke.me/webuyhouseasis)
-
-
-      *   [we buy house as is | beacons.ai](https://beacons.ai/webuyhouseasis)
-
-
-      *   [we buy house as is | linkfly.to](https://linkfly.to/webuyhouseasis)
-
-
-      *   [we buy house as is | linktr.ee](https://linktr.ee/webuyhouseasis)
-
-
-      *   [we buy house as is | hype.co](https://hype.co/@webuyhouseasis)
-
-
-      *   [we buy house as is | ink.bio](https://lnk.bio/webuyhouseasis)
-
-
-      *   [we buy house as is | tap.bio](https://tap.bio/@webuyhouseasis)
-
-
-      *   [we buy house as is |
-      netlify.app](https://webuyhouseasis.netlify.app/)
-
-
-      *   [we buy house as is | taplink.cc](https://taplink.cc/webuyhouseasis)
-
-
-      *   [we buy house as is | linkr.bio](https://linkr.bio/webuyhouseasis)
-
     actions: []
     elementId: null
     colors: bg-light-fg-dark
